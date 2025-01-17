@@ -1,6 +1,6 @@
-link do strony: https://mgumiela.github.io/
-link do repozytorium z ciekawym artykułem: https://github.com/mgumiela/stable-diffusion
-link do strony, z której wziąłem link do repozytorium: https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent
+link do strony: https://mgumiela.github.io/ <br>
+link do repozytorium z ciekawym artykułem: https://github.com/mgumiela/stable-diffusion <br>
+link do strony, z której wziąłem link do repozytorium: https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent <br>
 <h2 align = "center" >Nazywam się Maciek, jestem dumnym studentem AGH </h2>
 💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗
 <img src = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dom_Studencki_Kapitol.png" />
